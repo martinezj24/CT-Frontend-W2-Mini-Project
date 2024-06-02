@@ -290,17 +290,3 @@ footer {
         align-items: center;
     }
 }
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    nav ul li {
-        display: block;
-        text-align: center;
-        margin: 10px 0;
-    }
-    .profile-pic {
-        width: 100px;
-        height: 100px;
-    }
-}
-
